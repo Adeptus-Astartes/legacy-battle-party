@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 116bae7db69471947b0aa5f293476907
+timeCreated: 1466000519
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: btn_visiable_0
+    21300002: btn_visiable_1
+    21300004: btn_visiable_2
+    21300006: btn_visiable_3
+    21300008: btn_visiable_4
+    21300010: btn_visiable_5
+    21300012: btn_visiable_6
+    21300014: btn_visiable_7
+    21300016: btn_visiable_8
+    21300018: btn_visiable_9
+    21300020: btn_visiable_10
+    21300022: btn_visiable_11
+    21300024: btn_visiable_12
+    21300026: btn_visiable_13
+    21300028: btn_visiable_14
+    21300030: btn_visiable_15
+    21300032: btn_visiable_16
+    21300034: btn_visiable_17
+    21300036: btn_visiable_18
+    21300038: btn_visiable_19
+    21300040: btn_visiable_20
+    21300042: btn_visiable_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: btn_visiable_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37.79898}
+        - {x: -37, y: -36.20102}
+        - {x: 37, y: -36.20102}
+        - {x: 37, y: 37.79898}
+    - name: btn_visiable_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 457
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.20102, y: 37.79898}
+        - {x: -37.20102, y: -36.20102}
+        - {x: 30.79898, y: -36.20102}
+        - {x: 37.79898, y: -33.20102}
+        - {x: 37.79898, y: 33.79898}
+        - {x: 33.79898, y: 37.79898}
+    - name: btn_visiable_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 457
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.775345, y: 37.79898}
+        - {x: -36.775345, y: 35.79898}
+        - {x: -36.775345, y: -36.20102}
+        - {x: 37.224655, y: -36.20102}
+        - {x: 37.224655, y: 32.79898}
+        - {x: 32.224655, y: 37.79898}
+    - name: btn_visiable_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 457
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47635, y: 37.79898}
+        - {x: -36.47635, y: 36.79898}
+        - {x: -36.47635, y: -31.20102}
+        - {x: -35.47635, y: -36.20102}
+        - {x: 37.52365, y: -36.20102}
+        - {x: 37.52365, y: 37.79898}
+    - name: btn_visiable_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 455
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.219604, y: 37.714523}
+        - {x: -37.219604, y: -32.285477}
+        - {x: -34.219604, y: -36.285477}
+        - {x: 35.780396, y: -36.285477}
+        - {x: 37.780396, y: -35.285477}
+        - {x: 37.780396, y: 31.714523}
+        - {x: 31.780396, y: 37.714523}
+    - name: btn_visiable_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 455
+        width: 135
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.878387, y: 37.714523}
+        - {x: -36.878387, y: 34.714523}
+        - {x: -36.878387, y: -34.285477}
+        - {x: -31.878387, y: -36.285477}
+        - {x: 37.121613, y: -36.285477}
+        - {x: 37.121613, y: 36.714523}
+        - {x: 33.121613, y: 37.714523}
+    - name: btn_visiable_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37.753372}
+        - {x: -37, y: -33.246628}
+        - {x: -32, y: -36.246628}
+        - {x: 32, y: -36.246628}
+        - {x: 37, y: -29.246628}
+        - {x: 37, y: 37.753372}
+    - name: btn_visiable_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 302
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.20102, y: 37.753372}
+        - {x: -37.20102, y: -36.246628}
+        - {x: 35.79898, y: -36.246628}
+        - {x: 37.79898, y: -34.246628}
+        - {x: 37.79898, y: 37.753372}
+    - name: btn_visiable_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 302
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.775345, y: 37.753372}
+        - {x: -36.775345, y: 30.753372}
+        - {x: -36.775345, y: -31.246628}
+        - {x: -30.775345, y: -36.246628}
+        - {x: 35.224655, y: -36.246628}
+        - {x: 37.224655, y: -35.246628}
+        - {x: 37.224655, y: 37.753372}
+    - name: btn_visiable_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 302
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.47635, y: 37.753372}
+        - {x: -36.47635, y: -34.246628}
+        - {x: -35.47635, y: -36.246628}
+        - {x: 37.52365, y: -36.246628}
+        - {x: 37.52365, y: 37.753372}
+    - name: btn_visiable_10
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 302
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.219604, y: 37.753372}
+        - {x: -37.219604, y: -35.246628}
+        - {x: -35.219604, y: -36.246628}
+        - {x: 34.780396, y: -36.246628}
+        - {x: 37.780396, y: -35.246628}
+        - {x: 37.780396, y: 31.753372}
+        - {x: 31.780396, y: 37.753372}
+    - name: btn_visiable_11
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 300
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.878387, y: 38.168915}
+        - {x: -36.878387, y: -34.831085}
+        - {x: -33.878387, y: -36.831085}
+        - {x: 31.121613, y: -36.831085}
+        - {x: 37.121613, y: -30.831085}
+        - {x: 37.121613, y: 38.168915}
+    - name: btn_visiable_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -37.165543}
+        - {x: 37, y: -37.165543}
+        - {x: 37, y: 37.834457}
+        - {x: -31, y: 37.834457}
+        - {x: -37, y: 30.834457}
+    - name: btn_visiable_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 150
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.20102, y: 37.834457}
+        - {x: -37.20102, y: -37.165543}
+        - {x: 37.79898, y: -37.165543}
+        - {x: 37.79898, y: 33.834457}
+        - {x: 34.79898, y: 37.834457}
+    - name: btn_visiable_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 150
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.775345, y: 37.834457}
+        - {x: -36.775345, y: 33.834457}
+        - {x: -36.775345, y: -37.165543}
+        - {x: 33.224655, y: -37.165543}
+        - {x: 37.224655, y: -31.165543}
+        - {x: 37.224655, y: 37.834457}
+    - name: btn_visiable_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -37}
+        - {x: 37, y: 37}
+        - {x: -37, y: 37}
+        - {x: -37, y: -37}
+    - name: btn_visiable_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.20102, y: 37}
+        - {x: -37.20102, y: -37}
+        - {x: 37.79898, y: -37}
+        - {x: 37.79898, y: 37}
+    - name: btn_visiable_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.775345, y: 37}
+        - {x: -36.775345, y: 35}
+        - {x: -36.775345, y: -37}
+        - {x: 35.224655, y: -37}
+        - {x: 37.224655, y: -34}
+        - {x: 37.224655, y: 37}
+    - name: btn_visiable_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 150
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.47635, y: 37.834457}
+        - {x: -36.47635, y: -37.165543}
+        - {x: 37.52365, y: -37.165543}
+        - {x: 37.52365, y: 37.834457}
+    - name: btn_visiable_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.476349, y: 37}
+        - {x: -36.47635, y: 34}
+        - {x: -36.47635, y: -37}
+        - {x: 37.52365, y: -37}
+        - {x: 37.52365, y: 37}
+    - name: btn_visiable_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 150
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.219604, y: 37.834457}
+        - {x: -37.219604, y: -37.165543}
+        - {x: 37.780396, y: -37.165543}
+        - {x: 37.780396, y: 37.834457}
+    - name: btn_visiable_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.219604, y: 37}
+        - {x: -37.219604, y: 33}
+        - {x: -37.219604, y: -37}
+        - {x: 37.780396, y: -37}
+        - {x: 37.780396, y: 37}
+    outline: []
+  spritePackingTag: UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
